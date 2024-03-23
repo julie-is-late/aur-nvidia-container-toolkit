@@ -5,7 +5,7 @@
 
 pkgname=nvidia-container-toolkit
 pkgver=1.14.6
-pkgrel=2
+pkgrel=3
 pkgdesc="NVIDIA container runtime toolkit"
 arch=(x86_64)
 url="https://github.com/NVIDIA/nvidia-container-toolkit"
